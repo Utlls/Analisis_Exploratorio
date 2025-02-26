@@ -1,4 +1,4 @@
-Prtoyecto Orientado al aprendizaje del análisis exploratorio de datos:
+Proyecto Orientado al aprendizaje del análisis exploratorio de datos:
 Paqueterias:
 Pandas
 Numpy
